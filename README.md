@@ -49,7 +49,7 @@ python app.py
 1. Run the unit tests:
 
 ```
-python -m unit test tests.test_registration
+python -m unittest tests.test_registration
 ```
 
 ## Project Structure
