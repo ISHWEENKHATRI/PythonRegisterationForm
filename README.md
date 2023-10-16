@@ -1,6 +1,4 @@
-## Python Registration Page Project
-
-## Python Registration Page
+## Python Registration Project
 
 ## Introduction
 - The Python Registration Page Project is a web application created using Flask, designed for user registration with fields for username, password, name, and phone number. This project serves as a foundation for implementing user registration and storage in a web application.
@@ -20,12 +18,12 @@
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/yourusername/registration-page.git
+git clone https://github.com/ISHWEENKHATRI/PythonRegisterationForm
 ```
 2. Navigate to the project directory:
 
 ```
-cd registration_form
+cd PythonRegisterationForm
 ```
 
 3. Install the required dependencies:
