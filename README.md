@@ -2,7 +2,7 @@
 
 ## Python Registration Page
 
-##Introduction
+## Introduction
 - The Python Registration Page Project is a web application created using Flask, designed for user registration with fields for username, password, name, and phone number. This project serves as a foundation for implementing user registration and storage in a web application.
 
 ## Features
@@ -10,7 +10,7 @@
 - User validation: Basic validation checks for username availability.
 - Unit testing: A suite of unit tests to verify registration functionality.
 
-##Getting Started
+## Getting Started
 # Prerequisites
 - Python 3
 - Flask
@@ -51,7 +51,7 @@ python app.py
 1. Run the unit tests:
 
 ```
-python -m unittest tests.test_registration
+python -m unit test tests.test_registration
 ```
 
 ## Project Structure
@@ -81,8 +81,8 @@ python -m unittest tests.test_registration
 ## Acknowledgments
 
 - Flask for providing a lightweight web framework.
-- Python's unittest module for unit testing.
+- Python's unit test module for unit testing.
 
 ## Contact
-- For any questions or feedback, feel free to contact the project maintainer: Your Name.
+- For any questions or feedback, feel free to contact the project maintainer: Ishween Khatri.
 
